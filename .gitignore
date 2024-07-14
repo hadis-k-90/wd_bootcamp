@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/wd_bootcamp/FileContentIndex/0c207cf0-4d06-49ba-b614-8735ec65aedb.vsidx
+.vs/wd_bootcamp/v17/.wsuo
+.vs/wd_bootcamp/v17/DocumentLayout.json
